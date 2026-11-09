@@ -30,14 +30,14 @@ The figure script also runs the analysis, so it works alone in a fresh session. 
 
 ## Read the engineering documentation
 
-- [Technical report PDF](esp32-pressure-calibration/docs/report/technical_report.pdf) and [editable Word report](docs/report/technical_report.docx)
-- [Hardware and wiring](docs/hardware.md), [technical specification](docs/technical_specification.md), and [experimental procedure](docs/experimental_procedure.md)
-- [Software architecture and HTTP interface](docs/software_architecture.md)
-- [Operational verification checklist](docs/operational_verification.md)
-- [Results and discussion](docs/results_and_discussion.md), [limitations](docs/limitations.md), and [figure captions](docs/figure_captions.md)
-- [Reproduction guide](docs/reproducibility.md), [data dictionary](docs/data_dictionary.md), and [dependency versions](docs/dependencies.md)
-- [Requirements and verification](docs/requirements_verification.md), [final review](docs/final_review.md), and [publication checklist](docs/publication_checklist.md)
-- [Portfolio descriptions](docs/portfolio.md)
+- [Technical report PDF](esp32-pressure-calibration/docs/report/technical_report.pdf) and [editable Word report](esp32-pressure-calibration/docs/report/technical_report.docx)
+- [Hardware and wiring](esp32-pressure-calibration/docs/hardware.md), [technical specification](esp32-pressure-calibration/docs/technical_specification.md), and [experimental procedure](esp32-pressure-calibration/docs/experimental_procedure.md)
+- [Software architecture and HTTP interface](esp32-pressure-calibration/docs/software_architecture.md)
+- [Operational verification checklist](esp32-pressure-calibration/docs/operational_verification.md)
+- [Results and discussion](esp32-pressure-calibration/docs/results_and_discussion.md), [limitations](esp32-pressure-calibration/docs/limitations.md), and [figure captions](esp32-pressure-calibration/docs/figure_captions.md)
+- [Reproduction guide](esp32-pressure-calibration/docs/reproducibility.md), [data dictionary](esp32-pressure-calibration/docs/data_dictionary.md), and [dependency versions](esp32-pressure-calibration/docs/dependencies.md)
+- [Requirements and verification](esp32-pressure-calibration/docs/requirements_verification.md), [final review](esp32-pressure-calibration/docs/final_review.md), and [publication checklist](docs/publication_checklist.md)
+- [Portfolio descriptions](esp32-pressure-calibration/docs/portfolio.md)
 
 ## Package layout
 

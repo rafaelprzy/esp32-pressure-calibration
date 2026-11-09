@@ -30,7 +30,7 @@ The figure script also runs the analysis, so it works alone in a fresh session. 
 
 ## Read the engineering documentation
 
-- [Technical report PDF](docs/report/technical_report.pdf) and [editable Word report](docs/report/technical_report.docx)
+- [Technical report PDF](esp32-pressure-calibration/docs/report/technical_report.pdf) and [editable Word report](docs/report/technical_report.docx)
 - [Hardware and wiring](docs/hardware.md), [technical specification](docs/technical_specification.md), and [experimental procedure](docs/experimental_procedure.md)
 - [Software architecture and HTTP interface](docs/software_architecture.md)
 - [Operational verification checklist](docs/operational_verification.md)

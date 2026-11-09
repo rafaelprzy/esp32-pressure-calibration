@@ -1,0 +1,8 @@
+"trial","phase","role","chronological_order","n","left_cm","right_cm","reference_kPa","mean_raw","sd_raw","final_height_status","predicted_kPa","error_kPa","within_recording_sd_kPa"
+"Z0","validation","zero_validation",8,205,14.5,14.5,0,3052048.09268293,3029.08903121299,"endpoint height not separately documented",0.0385362707661265,0.0385362707661265,0.00357987162770919
+"V1","validation","positive_validation",9,205,16,13,0.2941995,3255669.3902439,4644.65433652352,"endpoint height not separately documented",0.2791822532462,-0.0150172467537995,0.0054891969527811
+"Z1","validation","zero_validation",10,216,14.5,14.5,0,2992272.73148148,4513.65259012107,"endpoint height not separately documented",-0.0321081102329468,-0.0321081102329468,0.00533437501447092
+"V2","validation","positive_validation",11,203,15.75,13.25,0.24516625,3223506.12807882,5866.90964946621,"endpoint height not separately documented",0.241170709678843,-0.00399554032115731,0.006933696296159
+"Z2","validation","zero_validation",12,220,14.5,14.5,0,3024161.71818182,1964.43110442985,"endpoint height not separately documented",0.00557928605966662,0.00557928605966662,0.00232162577688307
+"V3","validation","positive_validation",13,203,15.75,13.25,0.24516625,3226347.51724138,5371.2220896261,"not recorded (explicit experimenter statement)",0.244528751763945,-0.000637498236055273,0.00634787732108272
+"Z3","validation","zero_validation",14,207,14.5,14.5,0,3011234.47826087,1045.68289029198,"endpoint height not separately documented",-0.00969852814147698,-0.00969852814147698,0.00123582056253994

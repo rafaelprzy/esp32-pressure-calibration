@@ -1,0 +1,81 @@
+Verification on 9 November 2026
+
+R checks
+PASS: all 14 trials and 2937 raw samples are retained 
+PASS: sample IDs and timestamps remain continuous within each recording 
+PASS: the fitted observations are exactly the P0-P5 trial means 
+PASS: trial-level model has six observations and four residual degrees of freedom 
+PASS: six historical metrics reproduce at reported precision 
+PASS: V1 uses its measured 3.0 cm difference 
+PASS: V3 missing final height is explicit and not imputed 
+PASS: validation chronology is preserved 
+PASS: validation timestamps support the documented within-session order 
+PASS: calibration and positive validation error definitions have not changed 
+PASS: V3-exclusion sensitivity analysis is reproducible 
+PASS: raw timestamps have the reported 250 ms median interval 
+PASS: all six regenerated figures exist 
+
+Package checks
+PASS: P0 original CSV SHA256
+PASS: P1 original CSV SHA256
+PASS: P2 original CSV SHA256
+PASS: P3 original CSV SHA256
+PASS: P4 original CSV SHA256
+PASS: P5 original CSV SHA256
+PASS: P6 original CSV SHA256
+PASS: V1 original CSV SHA256
+PASS: V2 original CSV SHA256
+PASS: V3 original CSV SHA256
+PASS: Z0 original CSV SHA256
+PASS: Z1 original CSV SHA256
+PASS: Z2 original CSV SHA256
+PASS: Z3 original CSV SHA256
+PASS: F01 Calibration.png original PNG SHA256
+PASS: F02 Errors.png original PNG SHA256
+PASS: F03 Validation.png original PNG SHA256
+PASS: F04 Raw signal.png original PNG SHA256
+PASS: F05 Zero recovery.png original PNG SHA256
+PASS: F06 Repeatability.png original PNG SHA256
+PASS: Rplot.png original PNG SHA256
+PASS: complete retained raw and original-figure inventory
+PASS: no private config.h in distribution
+PASS: interactive history and unreviewed video excluded
+PASS: compiler products excluded
+PASS: firmware credentials externalized
+PASS: no machine-specific user/data paths in public text
+PASS: figures/dashboard/dashboard_controls.png no textual or EXIF metadata
+PASS: figures/dashboard/dashboard_live.png no textual or EXIF metadata
+PASS: figures/generated/F01_calibration.png no textual or EXIF metadata
+PASS: figures/generated/F02_calibration_errors.png no textual or EXIF metadata
+PASS: figures/generated/F03_validation.png no textual or EXIF metadata
+PASS: figures/generated/F04_raw_signal_stability.png no textual or EXIF metadata
+PASS: figures/generated/F05_zero_recovery.png no textual or EXIF metadata
+PASS: figures/generated/F06_repeatability.png no textual or EXIF metadata
+PASS: figures/original/F01 Calibration.png no textual or EXIF metadata
+PASS: figures/original/F02 Errors.png no textual or EXIF metadata
+PASS: figures/original/F03 Validation.png no textual or EXIF metadata
+PASS: figures/original/F04 Raw signal.png no textual or EXIF metadata
+PASS: figures/original/F05 Zero recovery.png no textual or EXIF metadata
+PASS: figures/original/F06 Repeatability.png no textual or EXIF metadata
+PASS: figures/original/Rplot.png no textual or EXIF metadata
+PASS: esp32_sensor.jpg no EXIF/XMP metadata
+PASS: u_tube_apparatus.jpg no EXIF/XMP metadata
+PASS: license and citation files supplied
+PASS: confirmed author and requested profile used
+
+Additional publication and document audit
+PASS: original network fields located without disclosing values
+PASS: only credential externalization changed the supplied firmware
+PASS: original network name and password absent from all public text, DOCX XML and PDF text
+PASS: public files and report contain no machine-specific private user/data paths
+PASS: dashboard_live.png keeps the supplied screenshot pixels
+PASS: dashboard_controls.png keeps the supplied screenshot pixels
+PASS: final report has 32 pages
+PASS: nine editable native Word equations retained
+PASS: confirmed report author metadata
+PASS: PDF author metadata matches the confirmed name
+PASS: no empty or near-empty report pages
+PASS: all visible PDF page counters agree with final total
+PASS: key limitations and sensitivity result retained in the report
+PASS: all local Markdown document and image links resolve
+PASS: all 33 supplied source files remain unchanged

@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = reference_kPa ~ mean_raw, data = cal_data)
+
+Residuals:
+         1          2          3          4          5          6 
+-0.0002191 -0.0032770 -0.0113704  0.0139556  0.0153486 -0.0144378 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -3.568e+00  1.328e-01  -26.88 1.14e-05 ***
+mean_raw     1.182e-06  4.146e-08   28.51 9.01e-06 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.01395 on 4 degrees of freedom
+Multiple R-squared:  0.9951,	Adjusted R-squared:  0.9939 
+F-statistic: 812.6 on 1 and 4 DF,  p-value: 9.013e-06
+

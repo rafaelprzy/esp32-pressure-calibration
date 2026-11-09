@@ -1,0 +1,7 @@
+"metric","previously_reported","rounding_tolerance","recalculated","difference","agrees_at_reported_precision"
+"intercept_kPa",-3.568469,5e-07,-3.56846908986017,-8.98601664189869e-08,TRUE
+"slope_kPa_per_count",1.181831e-06,5e-13,1.18183110196521e-06,1.01965213785652e-13,TRUE
+"calibration_R_squared",0.9951,5e-05,0.995101538574252,1.53857425155834e-06,TRUE
+"calibration_RMSE_kPa",0.0114,5e-05,0.0113934462408346,-6.55375916544521e-06,TRUE
+"positive_validation_RMSE_kPa",0.009,5e-05,0.00897939208267964,-2.06079173203609e-05,TRUE
+"zero_prediction_spread_kPa",0.0706,5e-05,0.0706443809990733,4.43809990733346e-05,TRUE

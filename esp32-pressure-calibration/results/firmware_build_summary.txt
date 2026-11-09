@@ -1,0 +1,8 @@
+Successful sanitized firmware compilation; no upload performed.
+Arduino CLI 1.5.1; ESP32 core 3.3.12; HX710AB 0.3.1.
+Target: esp32:esp32:esp32s3:FlashSize=16M,PSRAM=opi,CDCOnBoot=cdc,FlashMode=qio
+Sketch uses 930423 bytes of app storage; selected app limit 1310720 bytes.
+Global variables use 147068 bytes; reported dynamic-memory limit 327680 bytes.
+Remaining summary memory 180612 bytes.
+Placeholder network configuration used in a separate local build copy.
+The exact original acquisition build configuration is not established.

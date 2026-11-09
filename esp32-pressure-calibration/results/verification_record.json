@@ -1,0 +1,86 @@
+{
+  "verification_date": "2026-11-09",
+  "R_version": "4.6.1",
+  "R_external_packages_required": 0,
+  "arduino_cli": "1.5.1",
+  "arduino_esp32_core": "3.3.12",
+  "HX710AB": "0.3.1",
+  "target": "esp32:esp32:esp32s3:FlashSize=16M,PSRAM=opi,CDCOnBoot=cdc,FlashMode=qio",
+  "build_status": "PASS",
+  "program_storage_bytes": 930423,
+  "program_storage_limit_bytes": 1310720,
+  "global_memory_bytes": 147068,
+  "dynamic_memory_summary_limit_bytes": 327680,
+  "hardware_upload_performed": false,
+  "live_hardware_retest_performed": false,
+  "renderer": "Native Microsoft Word PDF export; packaged render_docx.py rasterizer with Word conversion fallback and Poppler",
+  "report_pages": 32,
+  "checks": [
+    {
+      "check": "original network fields located without disclosing values",
+      "result": "PASS"
+    },
+    {
+      "check": "only credential externalization changed the supplied firmware",
+      "result": "PASS"
+    },
+    {
+      "check": "original network name and password absent from all public text, DOCX XML and PDF text",
+      "result": "PASS"
+    },
+    {
+      "check": "public files and report contain no machine-specific private user/data paths",
+      "result": "PASS"
+    },
+    {
+      "check": "dashboard_live.png keeps the supplied screenshot pixels",
+      "result": "PASS"
+    },
+    {
+      "check": "dashboard_controls.png keeps the supplied screenshot pixels",
+      "result": "PASS"
+    },
+    {
+      "check": "final report has 32 pages",
+      "result": "PASS"
+    },
+    {
+      "check": "nine editable native Word equations retained",
+      "result": "PASS"
+    },
+    {
+      "check": "confirmed report author metadata",
+      "result": "PASS"
+    },
+    {
+      "check": "PDF author metadata matches the confirmed name",
+      "result": "PASS"
+    },
+    {
+      "check": "no empty or near-empty report pages",
+      "result": "PASS"
+    },
+    {
+      "check": "all visible PDF page counters agree with final total",
+      "result": "PASS"
+    },
+    {
+      "check": "key limitations and sensitivity result retained in the report",
+      "result": "PASS"
+    },
+    {
+      "check": "all local Markdown document and image links resolve",
+      "result": "PASS"
+    },
+    {
+      "check": "all 33 supplied source files remain unchanged",
+      "result": "PASS"
+    },
+    {
+      "check": "final review supplied and its incoming links resolve",
+      "result": "PASS"
+    }
+  ],
+  "isolated_copy_reproduction": "PASS: both analysis entry points executed in fresh R sessions from another folder; package integrity checks passed in the relocated copy.",
+  "visual_review": "PASS: all 32 rendered report pages inspected; corrected raw-signal figure labels, table widths, equation typography and page counters."
+}

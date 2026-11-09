@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this experimental project when reusing its code, data or documentation."
+type: software
+title: "Development and Experimental Calibration of an ESP32-Based Low-Pressure Monitoring System Using a U-Tube Manometer"
+authors:
+  - family-names: Przydzimirski
+    given-names: Rafael Patrick
+    website: "https://github.com/rafaelprzy"
+abstract: "Educational ESP32-S3 and HX710B pressure acquisition platform calibrated against an approximate water U-tube reference, with reproducible base-R calibration and independent validation. Zero-offset variation and reference limitations are retained."
+keywords:
+  - pressure calibration
+  - ESP32-S3
+  - HX710B
+  - biomedical instrumentation education
+  - reproducible R analysis
+license:
+  - MIT
+  - CC-BY-4.0

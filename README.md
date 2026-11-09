@@ -4,7 +4,7 @@ An educational pressure instrumentation project by **Rafael Patrick Przydzimirsk
 
 The experiment is complete. This package documents the existing work and preserves its limitations. It is an experimental platform, unsuitable for clinical, patient-monitoring, safety-critical or certified measurement use.
 
-![Calibration curve](figures/generated/F01_calibration.png)
+![Calibration curve](esp32-pressure-calibration/figures/generated/F01_calibration.png)
 
 ## What the measurements show
 
